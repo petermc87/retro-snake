@@ -142,6 +142,6 @@ Finally, in the `main.py`, after configuration and instantiation, we have three 
 ```
 
 ## Challenges
-This game was originally developed in 2021. After revisiting in 2023, `tkinter` module went through an update. The development of the the module moved to a new repository and required it to be installed locally in order for it to be run with this application. 
+This game was originally developed in 2021. After revisiting in 2023, `tkinter` module went through an update. The development of the module moved to a new repository and required it to be installed locally in order for it to be run with this application. 
 
 
