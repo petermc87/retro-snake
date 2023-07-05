@@ -21,7 +21,7 @@ class Scoreboard(Turtle):
     def update_score(self):
         # writes the variables to the screen. Clear screen was added in here. This is because the game_over method is
         # not being used anymore. this wasn't previously reset because the score stayed in the screen when the game
-        # finished
+        # finished.
         self.clear()
         with open("high_score.txt", mode="r") as h_score:
             high_score = h_score.read()
